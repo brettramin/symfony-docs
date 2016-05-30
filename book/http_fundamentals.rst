@@ -498,7 +498,7 @@ complex tasks keep coming up over and over again: persisting things to the
 database, rendering and reusing templates, handling form submissions, sending
 emails, validating user input and handling security.
 
-The good news is that none of these problems is unique. Symfony provides
+The good news is that none of these problems are unique. Symfony provides
 a framework full of tools that allow you to build your application, not your
 tools. With Symfony, nothing is imposed on you: you're free to use the full
 Symfony Framework, or just one piece of Symfony all by itself.
